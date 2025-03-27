@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void reverse(char* s) {
-	if (*s == 0) 
+	if (*s == 0) // Can be replaced with end--; (Move to after end declaration)
 		return;
 
 	// Find the end of s
