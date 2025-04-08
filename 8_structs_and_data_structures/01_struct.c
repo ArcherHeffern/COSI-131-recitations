@@ -6,9 +6,9 @@ struct Point {
 };
 
 int main() {
-	Point p1;
+	struct Point p1;
 	p1.x = 5;
-	p2.y = 4;
+	p1.y = 4;
 
-	Point p2 = { .x = 1, .y = 2 };
+	struct Point p2 = { .x = 1, .y = 2 };
 }
