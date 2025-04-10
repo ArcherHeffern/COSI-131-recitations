@@ -9,9 +9,9 @@
 - [5: Header Files, the C Preprocessor, and Pointers](https://docs.google.com/presentation/d/1zSF0HrlGyg8znPX0T2ry33n8mtNlV2uqzDN4jHcqmlw/edit?usp=sharing)
 - [6: Concurrency and Synchronization in Java (TODO)]()
 - [7: Pointers and Memory Management in C](https://docs.google.com/presentation/d/10q-a3_WxEnb8PGhwc27DPhs_Ndl5oyc_SUwhSUldlZA/edit?usp=sharing)
-- [8: Structs and Data Structures in C (TODO)]()
+- [8: Structs and Data Structures in C](https://docs.google.com/presentation/d/1klKjIMwL-V78V9bZR5wfTTfeVEjFqX4wSwxTEbMPtIM/edit?usp=sharing)
 
 ## To modify
 - Convert recitation 2 to slide format
 - Recitation 2: Move getting started in large codebases to later recitation and do more shell practice instead
-- Update concurrency document for prettiness 
+- Update concurrency document for prettyness 
