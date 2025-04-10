@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Inspired by: https://github.com/firmianay/Life-long-Learner/blob/master/linux-kernel-development/chapter-6.md
+
 struct Node {
 	struct Node *prev;
 	struct Node *next;
